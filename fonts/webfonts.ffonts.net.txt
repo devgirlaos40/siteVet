@@ -1,19 +1,10 @@
 Download Webfonts from webfonts.ffonts.net:
-<<<<<<< HEAD
 
 
 
 http://www.ffonts.net
 
 
-=======
-
-
-
-http://www.ffonts.net
-
-
->>>>>>> b7b12c81790f57bd3d3c80523a7c207f6b417904
 
 
 Free WebFonts for your website
