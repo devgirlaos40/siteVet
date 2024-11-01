@@ -44,14 +44,14 @@ body {
 .cabecalho__container img {
     width: 100px;
     border-radius: 50px;
-    box-shadow: 2px 2px 4px black;
+    box-shadow: 2px 2px 4px rgb(53, 52, 52);
 }
 
 h1 {
     font-family: 'FortuneCity';
     font-size: 58px;
     color: var(--laranja);
-    text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px rgb(53, 52, 52);
 }
 
 strong{
